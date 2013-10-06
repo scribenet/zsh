@@ -29,4 +29,4 @@ wget --no-check-certificate https://github.com/scribenet/zsh/raw/master/tools/in
 ```
 
 # More
-Additional information can be found in the (README)[https://github.com/robbyrussell/oh-my-zsh/blob/master/README.textile] on the original [project homepage](https://github.com/robbyrussell/oh-my-zsh).
+Additional information can be found in the [README](https://github.com/robbyrussell/oh-my-zsh/blob/master/README.textile) on the original [project homepage](https://github.com/robbyrussell/oh-my-zsh).
